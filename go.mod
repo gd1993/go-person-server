@@ -5,6 +5,7 @@ go 1.18
 require (
 	github.com/go-sql-driver/mysql v1.7.0
 	github.com/gomodule/redigo v1.8.9
+	github.com/jinzhu/gorm v1.9.16
 	github.com/jmoiron/sqlx v1.3.5
 	go.etcd.io/etcd/client/v3 v3.5.6
 )
@@ -14,6 +15,7 @@ require (
 	github.com/coreos/go-systemd/v22 v22.3.2 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
+	github.com/jinzhu/inflection v1.0.0 // indirect
 	go.etcd.io/etcd/api/v3 v3.5.6 // indirect
 	go.etcd.io/etcd/client/pkg/v3 v3.5.6 // indirect
 	go.uber.org/atomic v1.7.0 // indirect
